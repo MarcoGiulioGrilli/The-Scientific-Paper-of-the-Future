@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1172579478.svg)](https://doi.org/10.5281/zenodo.18863780)
+
 # Factorial Calculator
 
 Seminar 3 – *The Scientific Paper of the Future*  
