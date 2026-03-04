@@ -1,0 +1,15 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Factorial Calculator",
+  "description": "C program that computes the factorial of a non-negative integer.",
+  "programmingLanguage": "C",
+  "codeRepository": "https://github.com/MarcoGiulioGrilli/The-Scientific-Paper-of-the-Future",
+  "license": "https://opensource.org/licenses/MIT",
+  "version": "1.0",
+  "author": {
+    "@type": "Person",
+    "givenName": "Marco Giulio",
+    "familyName": "Grilli"
+  }
+}
